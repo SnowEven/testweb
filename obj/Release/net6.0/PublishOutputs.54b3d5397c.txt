@@ -1,0 +1,7 @@
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.exe
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\appsettings.json
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.dll
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.deps.json
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.runtimeconfig.json
+C:\Users\yunda0\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.pdb
